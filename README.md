@@ -47,9 +47,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-Developed by    :   Jaswanth.S
+Developed by    :   SHEETAL.R
 
-RegisterNumber  :   212223220037
+RegisterNumber  :   212223230206
 ~~~
 module JKFLIPFLOPUSINGIFELSE(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
@@ -88,13 +88,18 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![rtl](https://github.com/23013633/JKFLIPFLOP-USING-IF-ELSE/assets/150005961/a92d7128-016b-40c8-acac-faf2344fc534)
+
+![image](https://github.com/Sheetalshee/JKFLIPFLOP-USING-IF-ELSE/assets/144979107/ec1d91e2-2db8-4134-8e80-89d45c0263f9)
+
 
 **TIMING DIGRAMS FOR FLIP FLOP
 
-![time](https://github.com/23013633/JKFLIPFLOP-USING-IF-ELSE/assets/150005961/5892804c-e554-461b-8782-153158d6e9d7)
+
+![image](https://github.com/Sheetalshee/JKFLIPFLOP-USING-IF-ELSE/assets/144979107/c351d9c5-94b7-4b97-b2b9-f7de4db4a89c)
+
 
 
 **RESULTS**
 
 Thus, JK flipflop has been implemented using verilog and their functionality is validated using their functional tables.
+
